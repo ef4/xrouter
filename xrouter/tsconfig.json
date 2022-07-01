@@ -8,6 +8,7 @@
     // Environment Configuration
     "moduleResolution": "nodenext",
     "esModuleInterop": true,
+    "experimentalDecorators": true,
 
     // Enhance Strictness
     "noUnusedLocals": true,
