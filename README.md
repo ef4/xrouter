@@ -1,37 +1,11 @@
 xrouter
 ==============================================================================
 
-[Short description of the addon.]
+Home for Ember Polaris Routing experimentation.
 
+## Organization
 
-Compatibility
-------------------------------------------------------------------------------
+.
+├── xrouter: a v2 addon
+└── test-app: an Embroider-based test application that exercises the addon
 
-* Ember.js v3.24 or above
-* Embroider or ember-auto-import v2
-
-
-Installation
-------------------------------------------------------------------------------
-
-```
-ember install xrouter
-```
-
-
-Usage
-------------------------------------------------------------------------------
-
-[Longer description of how to use the addon in apps.]
-
-
-Contributing
-------------------------------------------------------------------------------
-
-See the [Contributing](CONTRIBUTING.md) guide for details.
-
-
-License
-------------------------------------------------------------------------------
-
-This project is licensed under the [MIT License](LICENSE.md).
