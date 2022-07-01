@@ -7,5 +7,7 @@ export default class Router extends EmberRouter {
 }
 
 Router.map(function () {
+  // this just serves to keep the classic router from complaining as we
+  // manipulate the URL.
   this.route('all', { path: '/*path' });
 });

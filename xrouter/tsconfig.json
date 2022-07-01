@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    // Compilation Configuration
+    "target": "es2022",
+    "module": "es2022",
+    "declaration": true,
+
+    // Environment Configuration
+    "moduleResolution": "nodenext",
+    "esModuleInterop": true,
+
+    // Enhance Strictness
+    "noUnusedLocals": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": false,
+    "noUnusedParameters": true,
+    "strictNullChecks": true,
+    "allowUnreachableCode": false,
+    "noImplicitReturns": true,
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "strict": true,
+  },
+  "include": [
+    "./src/**/*.ts",
+  ],
+}
